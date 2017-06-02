@@ -11,7 +11,7 @@ This is a python project to detect cat faces in a picture.
 > python face_detect.py  
 
 **With Parameters:**  
->python face_detect.py --file=batman.jpg --cascade=data/haarcascades/haarcascade_frontalface_alt.xml
+>python face_detect.py --file=cat3.jpg --cascade=data/haarcascades/haarcascade_frontalcatface_extended.xml
 
 --file: location of a picture  
 --cascade: pre-trained classifier in xml file
