@@ -1,2 +1,3 @@
 # facial-recognition
-Find face in pictures
+find face in pictures
+
