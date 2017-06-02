@@ -1,5 +1,5 @@
 # facial-recognition
-This is a python project to detect faces in a picture.
+This is a python project to detect cat faces in a picture.
 ## Pre-requisites:
 1. python=2.7.11
 2. numpy=1.12.1
